@@ -1,5 +1,7 @@
+Authors introduce the **Safety Helmet and Reflective Jacket** dataset, comprising 10,500 images meticulously annotated with bounding boxes for two crucial object classes: *safety_helmet* and *reflective_jacket*. This dataset is designed with the purpose of training an object detection model utilizing the YOLOv7 architecture to effectively recognize and locate safety equipment within a diverse range of settings and environments. The dataset is thoughtfully divided into *train*, *test*, and *val* subsets, maintaining a balanced ratio of 70% for training and 15% each for testing and validation, summing up to a comprehensive 100% split for robust model evaluation and development.
 
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
+The dataset includes images captured from diverse locations, such as construction sites, factories, and outdoor work environments. Each image contains an average of five annotated objects, providing a comprehensive set of scenarios for the model to learn from.
 
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+The Safety Helmet and Reflective Jacket dataset is particularly useful for industries that require workers to wear safety helmets and reflective jackets, such as construction, manufacturing, and mining. By training a model on this dataset, companies can automate safety monitoring and reduce the risk of accidents caused by the lack of appropriate safety equipment.
+
+The dataset is provided in the YOLOv7 format and includes annotations for each image in a text file. The images are available in JPEG format, making it easy to use with different deep learning frameworks. The dataset's large size and the diversity of images and objects make it a valuable resource for training a robust and accurate object detection model.
