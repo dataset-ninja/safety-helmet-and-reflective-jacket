@@ -1,6 +1,6 @@
 Dataset **Safety Helmet and Reflective Jacket** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/k6fwmfvvjj7fpgrbuu4ot/safety-helmet-and-reflective-jacket-DatasetNinja.tar?rlkey=ltr29rrqp6yarmil1gmyiu8my&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzI4MjlfU2FmZXR5IEhlbG1ldCBhbmQgUmVmbGVjdGl2ZSBKYWNrZXQvc2FmZXR5LWhlbG1ldC1hbmQtcmVmbGVjdGl2ZS1qYWNrZXQtRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAiQi95ZG9UQVQrSnFHQTlndVExUUc4TmwzY1R6TzgvR0xZYXZQdzR2N0ZmZz0ifQ==)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
